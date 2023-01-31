@@ -1,0 +1,4 @@
+
+v	cpp:S5276"Uimplicit conversion loses integer precision: 'int' to 'uint8_t' (aka 'unsigned char')(†‘…«ùÿÿÿÿ8Ú…Èõß0
+M	cpp:S1066"1Merge this "if" statement with the enclosing one.(½—©æ8Í†Èõß0
+–	cpp:S3230"uDo not use the constructor's initializer list for data member "m_prevBtnState". Use the in-class initializer instead.(áéÕ˜üÿÿÿÿ8Î†Èõß0
